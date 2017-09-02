@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p> Nicholas Loulloudes was born in [Nicosia, Cyprus](http://en.wikipedia.org/wiki/Nicosia). He holds a Ph.D. in Computer Science from the [University of Cyprus](http://www.cs.ucy.ac.cy/) (2015), an M.Sc. in Communications Networks and Software from the [University of Surrey](http://www.surrey.ac.uk/) (2006) and a BSc in Computer Science from [<kbd>Intercollege</kbd>](http://www.unic.ac.cy/) (Cum Laude, 2005).</p>
+Nicholas Loulloudes was born in [Nicosia, Cyprus](http://en.wikipedia.org/wiki/Nicosia). He holds a Ph.D. in Computer Science from the [University of Cyprus](http://www.cs.ucy.ac.cy/) (2015), an M.Sc. in Communications Networks and Software from the [University of Surrey](http://www.surrey.ac.uk/) (2006) and a BSc in Computer Science from [Intercollege](http://www.unic.ac.cy/) (Cum Laude, 2005).
 
 <p> His Ph.D. thesis "Distributed Traffic Information Systems Based on V2X Communication in Large-Scale Urban Environments" was completed under the supervision of [Professor Marios D. Dikaiakos](http://www.cs.ucy.ac.cy/~mdd). Nicholas main research interest evolve around the areas of Vehicular Ad-Hoc Networks (VANET), Intelligent Transportation, Complex Networks, Cloud Computing and Online Social Networks.</p>
 
