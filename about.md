@@ -4,19 +4,32 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p> Nicholas Loulloudes was born in Nicosia, Cyprus. He holds a Ph.D. in Computer
+Science from the University of Cyprus (2015), an M.Sc. in Communications Networks
+and Software from the University of Surrey (2006) and a BSc in Computer Science
+from Intercollege (Cum Laude, 2005).</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p> His Ph.D. thesis "Distributed Traffic Information Systems Based on V2X
+Communication in Large-Scale Urban Environments" was completed under the
+supervision of Professor Marios D. Dikaiakos. Nicholas main research interest
+evolve around the areas of Vehicular Ad-Hoc Networks (VANET), Intelligent
+Transportation, Complex Networks, Cloud Computing and Online Social Networks.</p>
+
+<p> Since December 2006, Nicholas is working with the Laboratory for Internet
+Computing (former HPCL) as a research scientist, where among other he
+participated in the development of the g-Eclipse framework and also in the
+Testing and Certification support activity of the EGEE III project.
+During August 2010 - January 2011, he was on an research internship in
+Intelligent Transportations Systems with Siemens Corporate Research,
+Princeton, NJ, USA. On January 2011, Nicholas was awarded a 2-year research
+grant for New Researchers (PENEK) by the Cyprus Research Promotion Foundation,
+in the context of which, the V-Sense - A Vehicular Sensor Network Infrastructure
+project was realized.</p>
+
+<p> In February 2013, Nicholas joined the CELAR FP7 EU project performing research
+in the area of Automatic, Multi-Grained, elasticity-provisioning for the Cloud.
+From October 2014, he is the project-lead of the Cloud Application Management
+Framework (CAMF) technology project under the Eclipse Foundation.</p>
 
 <h2>Skills</h2>
 
