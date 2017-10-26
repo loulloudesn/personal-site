@@ -1,6 +1,6 @@
 # main text of home
-name: Nicholas Loulloudes, PhD
-bio: Cloud Infrastructure Engineer, Software Developer, Eclipse Committer, Open-Source and Technology Enthusiast
+name: Nicholas Loulloudes, Ph.D.
+bio: Microservice and Cloud Architect | Software Developer | Open-Source and Technology Enthusiast
 
 # twitter summary info
 description: Nicholas Loulloudes Personal Website
@@ -13,7 +13,7 @@ picture: assets/images/loulloudes.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: false
-resume-external: true
+resume-external: false
 resume-url: https://google.com/?q=my+resume
 
 url: http://www.loulloudes.com
@@ -29,9 +29,9 @@ analytics-google: 'UA-7166731-4'
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, leave categories empty
-disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+#disqus:
+#  shortname: mydisqus # enter this from your disqus account
+#  categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
@@ -47,7 +47,7 @@ github: loulloudesn
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-# medium: medium
+medium: loulloudes.n
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 #email: myemail@gmail.com
@@ -69,7 +69,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
@@ -82,6 +82,7 @@ projects: true
 about: true
 blog: true
 publications: true
+talks: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
@@ -96,7 +97,7 @@ related: true
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: true
+show-author: false
 
 # do you want some animations?
 animation: true
@@ -106,6 +107,18 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll/scholar
 
 jekyll-mentions:
     base_url: https://github.com
+
+scholar:
+  style: ieee
+  locale: en
+  source: ./_publications
+  sort_by:  year,month
+  order: descending,descending
+  group_by: year
+  group_order: descending
+  bibliography_template: publications
+  bibliography_list_tag: ul
