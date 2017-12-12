@@ -7,7 +7,7 @@ layout: page
 Nicholas Loulloudes is an Information Technology Professional and Entrepreneur from [Nicosia, Cyprus](http://en.wikipedia.org/wiki/Nicosia).
 
 ### Professional Activities
-He currently holds the position of Senior Server and Infrastructure Developer at [PointRF Systems LTD](http://www.pointrf.com). In the past, Nicholas has held various positions, among those, Visiting Lecturer at the [University of Nicosia (UNic)](http://www.unic.ac.cy), Cloud Infrastructure Manager and Senior Researcher at the University of Cyprus ([Laboratory for Internet Computing](http://linc.ucy.ac.cy/)).
+He currently holds the position of Head of R&D at [TRG Research and Development LTD](http://www.trgint.com). Previously he served as a Senior Server and Infrastructure Developer at [PointRF Systems LTD](http://www.pointrf.com). In the past, Nicholas has held various academic positions, among those, Visiting Lecturer at the [University of Nicosia (UNic)](http://www.unic.ac.cy), Cloud Infrastructure Manager and Senior Researcher at the University of Cyprus ([Laboratory for Internet Computing](http://linc.ucy.ac.cy/)).
 
 Nicholas entrepreneurial endeavours are highlighted by the co-founding of Pivot Logic LTD in 2015, where he currently serves from the Board of Directors. Moreover, his ideas have been presented in Innovation and Entrepreneurship competitions including [EIT Climate-KIC ClimateLaunchpad](http://climatelaunchpad.org/) and [Digital Champion](http://www.cyprus-digitalchampion.gov.cy/).
 
